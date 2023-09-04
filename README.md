@@ -12,3 +12,20 @@ Tenho 14 anos, moro em SâO José das Palmeiras/pr e sou aluna da dicplina de pe
 
 
 </br>
+</br>
+
+## Tecnologias e ferramenta
+<code>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</code>
+<code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg" />
+</code>
+<code>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</code>
+<code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+</code>
+<code>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
